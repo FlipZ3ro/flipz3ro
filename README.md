@@ -1,7 +1,7 @@
 <div align="center">
 <html>
 <head>
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=H+E+L+L+O++W+O+R+L+D">
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=H+E+L+L+O+++W+O+R+L+D">
 <body>
 <p align="center">
     <b>Hello World </b><br><br>
