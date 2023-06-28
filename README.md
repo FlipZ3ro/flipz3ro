@@ -3,7 +3,12 @@
 <head>
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=H+E+L+L+O++I'AM++A+R+A+P+Z+Z">
 <body>
-
+<p align="center">
+    <b>Hello World Welcome to my page!</b><br><br>
+    <i>
+        I'm arapzz.<br>
+        a 21 y/o , make money with crypto, information about Airdrops, Bounties, Testers, NFTs,. I love Trading open-source projects<br>
+    </i><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
