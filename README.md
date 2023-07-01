@@ -16,9 +16,14 @@
 <p align="left"> 
 
 - ✉️ How to reach me **arapzz.eth@gmail.com**
-<p align="center">
+<div align="center">
+  <div style="display: flex; align-items: flex-start;">
+<div align="center">
+  <div style="display: flex; align-items: flex-start;">
+<div align="center">
+  <div style="display: flex; align-items: flex-start;">
 <h3 align="left">Social Media:</h3>
-
+<p align="left"> 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/815448453228134422) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arapzz.eth) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/arapzz1)
 
 <div align="center">
