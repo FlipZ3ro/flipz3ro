@@ -11,7 +11,7 @@
     <img align="top" src="https://github-readme-stats.vercel.app/api?username=flipz3ro&show_icons=true&theme=nightowl"/>
 <br />
 <br />
-    <img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=flipz3ro&theme=nightowl&date_format=M%20j%5B%2C%20Y%5D"/>
+    <img align="top" src="https://wallet-stats.vercel.app/"/>
 <br />
 <br />
    <img align="down" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flipz3ro&layout=compact&theme=nightowl"/>
