@@ -1,4 +1,4 @@
-![FlipZ3r`o GitHub stats](https://github-readme-stats.vercel.app/api?username=flipz3ro&show_icons=true&theme=radical)
+![FlipZ3ro GitHub stats](https://github-readme-stats.vercel.app/api?username=flipz3ro&show_icons=true&theme=radical)
 
 <a href="https://github.com/flipz3ro/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=flipz3ro" />
