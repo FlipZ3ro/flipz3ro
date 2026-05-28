@@ -55,19 +55,7 @@ ID=Indonesia 🇮🇩
 
 </div>
 
-<br>
 
-## `> ls projects/`
-
-<div align="center">
-
-| Project | Description |
-|---------|-------------|
-| 🔥 **[stacSol-rs](https://github.com/FlipZ3ro/stacSol-rs)** | Solana arbitrage bot — Rust rewrite, Jito bundles |
-| 📧 **[zoho-mail-monitor](https://github.com/FlipZ3ro/zoho-mail-monitor)** | Bidirectional email ↔ Telegram bridge |
-| 🤖 **[hermes-agent](https://github.com/FlipZ3ro)** | AI agent infrastructure & automation |
-
-</div>
 
 <br>
 
