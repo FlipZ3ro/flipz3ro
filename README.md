@@ -75,11 +75,32 @@ ID=Indonesia 🇮🇩
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FlipZ3ro&theme=radical" width="450"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FlipZ3ro&theme=radical" width="450"/>
+<a href="https://github.com/FlipZ3ro">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FlipZ3ro&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&hide_border=true&title_color=00F584&icon_color=00F584&text_color=c9d1d9&ring_color=00F584&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlipZ3ro&layout=compact&theme=chartreuse-dark&bg_color=0d1117&hide_border=true&title_color=00F584&text_color=c9d1d9&langs_count=8" />
+</a>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FlipZ3ro&theme=radical" width="450"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/top-repos?username=FlipZ3ro&theme=radical" width="450"/>
+</div>
+
+<div align="center">
+
+<a href="https://github.com/FlipZ3ro">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FlipZ3ro&theme=chartreuse-dark&background=0d1117&hide_border=true&ring=00F584&fire=00F584&currStreakLabel=00F584&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" width="700"/>
+</a>
+
+</div>
+
+<div align="center">
+
+<a href="https://github.com/FlipZ3ro">
+  <img src="https://github-profile-trophy.vercel.app/?username=FlipZ3ro&theme=chartreuse-dark&no-frame=true&no-bg=true&column=7&margin-w=10" width="700"/>
+</a>
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=FlipZ3ro&theme=chartreuse-dark&background=0d1117&hide_border=true&ring=00F584&fire=00F584&currStreakLabel=00F584&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e)
 
 </div>
 
