@@ -1,38 +1,6 @@
 <div align="center">
-
-```
- ██████╗ ███████╗████████╗██████╗  ██████╗ ███████╗██╗     ███████╗ ██████╗
- ██╔══██╗██╔════╝╚══██╔══╝██╔══██╗██╔═══██╗██╔════╝██║     ██╔════╝██╔════╝
- ██████╔╝█████╗     ██║   ██████╔╝██║   ██║█████╗  ██║     █████╗  ██║  ███╗
- ██╔══██╗██╔══╝     ██║   ██╔══██╗██║   ██║██╔══╝  ██║     ██╔══╝  ██║   ██║
- ██║  ██║███████╗   ██║   ██║  ██║╚██████╔╝██║     ███████╗███████╗╚██████╔╝
- ╚═╝  ╚═╝╚══════╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚══════╝╚══════╝ ╚═════╝
-```
-
-```
-> whoami
-```
-
-**Building autonomous systems on Solana** ⚡
-
-```yaml
-name: Rap
-location: Indonesia 🇮🇩
-focus: DeFi automation · Rust · MEV
-stack: Solana · Anchor · Rust · TypeScript
-```
-
-<br>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=00F584&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=80&lines=Solana+degen+24/7;Shipping+Rust+⚡+on+Mainnet;Automating+everything+that+pays)"/>
-
-</div>
-
----
-
-<br>
-
-## `> neofetch --tech-stack`
+ 
+##
 
 <div align="center">
 
@@ -49,7 +17,7 @@ stack: Solana · Anchor · Rust · TypeScript
 
 <br>
 
-## `> stats --format=json`
+##
 
 <div align="center">
 
