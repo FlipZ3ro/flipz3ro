@@ -1,10 +1,38 @@
 <div align="center">
 
+```
+ ██████╗ ███████╗████████╗██████╗  ██████╗ ███████╗██╗     ███████╗ ██████╗
+ ██╔══██╗██╔════╝╚══██╔══╝██╔══██╗██╔═══██╗██╔════╝██║     ██╔════╝██╔════╝
+ ██████╔╝█████╗     ██║   ██████╔╝██║   ██║█████╗  ██║     █████╗  ██║  ███╗
+ ██╔══██╗██╔══╝     ██║   ██╔══██╗██║   ██║██╔══╝  ██║     ██╔══╝  ██║   ██║
+ ██║  ██║███████╗   ██║   ██║  ██║╚██████╔╝██║     ███████╗███████╗╚██████╔╝
+ ╚═╝  ╚═╝╚══════╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚══════╝╚══════╝ ╚═════╝
+```
+
+```
+> whoami
+```
+
+**Building autonomous systems on Solana** ⚡
+
+```yaml
+name: Rap
+location: Indonesia 🇮🇩
+focus: DeFi automation · Rust · MEV
+stack: Solana · Anchor · Rust · TypeScript
+```
+
+<br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=00F584&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=80&lines=Solana+degen+24/7;Shipping+Rust+⚡+on+Mainnet;Automating+everything+that+pays)"/>
+
+</div>
+
 ---
 
 <br>
 
-##
+## `> neofetch --tech-stack`
 
 <div align="center">
 
@@ -21,36 +49,28 @@
 
 <br>
 
-##
+## `> stats --format=json`
 
 <div align="center">
 
-<a href="https://github.com/FlipZ3ro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FlipZ3ro&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&hide_border=true&title_color=00F584&icon_color=00F584&text_color=c9d1d9&ring_color=00F584&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlipZ3ro&layout=compact&theme=chartreuse-dark&bg_color=0d1117&hide_border=true&title_color=00F584&text_color=c9d1d9&langs_count=8" />
-</a>
-
-</div>
-
-<div align="center">
-
-<a href="https://github.com/FlipZ3ro">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FlipZ3ro&theme=chartreuse-dark&background=0d1117&hide_border=true&ring=00F584&fire=00F584&currStreakLabel=00F584&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" width="700"/>
-</a>
-
-</div>
-
-<div align="center">
-
-<a href="https://github.com/FlipZ3ro">
-  <img src="https://github-profile-trophy.vercel.app/?username=FlipZ3ro&theme=chartreuse-dark&no-frame=true&no-bg=true&column=7&margin-w=10" width="700"/>
-</a>
+![Repos](https://img.shields.io/badge/📦_Repos-111-00F584?style=for-the-badge&labelColor=0d1117)
+![Stars](https://img.shields.io/badge/⭐_Stars-6-FFD700?style=for-the-badge&labelColor=0d1117)
+![Followers](https://img.shields.io/badge/👥_Followers-26-00F584?style=for-the-badge&labelColor=0d1117)
+![Contributions](https://img.shields.io/badge/🔥_Contributions-648%2B-FF6B35?style=for-the-badge&labelColor=0d1117)
 
 </div>
 
 <div align="center">
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=FlipZ3ro&theme=chartreuse-dark&background=0d1117&hide_border=true&ring=00F584&fire=00F584&currStreakLabel=00F584&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e)
+
+</div>
+
+<div align="center">
+
+![Status](https://img.shields.io/badge/🟢_Status-Online-00F584?style=for-the-badge&labelColor=0d1117)
+![WIB](https://img.shields.io/badge/🕐_WIB-UTC%2B7-00F584?style=for-the-badge&labelColor=0d1117)
+![VPS](https://img.shields.io/badge/🖥️_VPS-Debian_6.x-00F584?style=for-the-badge&labelColor=0d1117)
 
 </div>
 
