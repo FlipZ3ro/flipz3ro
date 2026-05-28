@@ -1,25 +1,16 @@
 <div align="center">
 
 ```
- ██████╗ ███████╗████████╗██████╗  ██████╗ ███████╗██╗     ███████╗ ██████╗
- ██╔══██╗██╔════╝╚══██╔══╝██╔══██╗██╔═══██╗██╔════╝██║     ██╔════╝██╔════╝
- ██████╔╝█████╗     ██║   ██████╔╝██║   ██║█████╗  ██║     █████╗  ██║  ███╗
- ██╔══██╗██╔══╝     ██║   ██╔══██╗██║   ██║██╔══╝  ██║     ██╔══╝  ██║   ██║
- ██║  ██║███████╗   ██║   ██║  ██║╚██████╔╝██║     ███████╗███████╗╚██████╔╝
- ╚═╝  ╚═╝╚══════╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚══════╝╚══════╝ ╚═════╝
-```
-
-```
 > whoami
 ```
 
 **Building autonomous systems on Solana** ⚡
 
 ```yaml
-name: Rap
-location: Indonesia 🇮🇩
-focus: DeFi automation · Rust · MEV
-stack: Solana · Anchor · Rust · TypeScript
+0xRapzz
+Indonesia 🇮🇩
+DeFi automation · Rust · MEV
+Solana · Anchor · Rust · TypeScript
 ```
 
 <br>
