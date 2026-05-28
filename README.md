@@ -9,34 +9,26 @@
  ╚═╝  ╚═╝╚══════╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚══════╝╚══════╝ ╚═════╝
 ```
 
-### `> whoami`
-
-**Web3 builder · Solana degen · Automation nerd** 🔧
-
 ```
-$ cat /etc/os-release | grep ID
-ID=Indonesia 🇮🇩
+> whoami
+```
+
+**Building autonomous systems on Solana** ⚡
+
+```yaml
+name: Rap
+location: Indonesia 🇮🇩
+focus: DeFi automation · Rust · MEV
+stack: Solana · Anchor · Rust · TypeScript
 ```
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00F584&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+autonomous+trading+systems;Shipping+Rust+%E2%9A%94%EF%B8%8F+on+Solana;Automating+everything+that+can+be+automated)"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=00F584&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=80&lines=Solana+degen+24/7;Shipping+Rust+⚡+on+Mainnet;Automating+everything+that+pays)"/>
 
 </div>
 
 ---
-
-<br>
-
-## `> cat about.md`
-
-```diff
-+ What I do
-- Build high-performance arbitrage bots (Rust + Solana)
-- Automate DeFi workflows end-to-end
-- Ship tools that run 24/7 without human intervention
-- Turn "too complex to automate" into cron jobs
-```
 
 <br>
 
@@ -54,8 +46,6 @@ ID=Indonesia 🇮🇩
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
-
-
 
 <br>
 
