@@ -10,7 +10,7 @@
 
 <br>
 
-## `> neofetch --tech-stack`
+##
 
 <div align="center">
 
@@ -27,7 +27,7 @@
 
 <br>
 
-## `> stats --format=json`
+##
 
 <div align="center">
 
