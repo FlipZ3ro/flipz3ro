@@ -106,29 +106,7 @@ ID=Indonesia 🇮🇩
 
 <br>
 
-## `> cat /proc/uptime`
-
-```
- Timezone  : WIB (UTC+7)
- OS        : Debian VPS · Linux 6.x
- Editor    : Neovim · tmux
- Terminal  : hermes-agent
-```
-
-<br>
-
 <div align="center">
-
-```
-┌─────────────────────────────────────────┐
-│  "I don't write code to impress.       │
-│   I write code to replace myself."      │
-│                                         │
-│                        — Rap, 2026      │
-└─────────────────────────────────────────┘
-```
-
-<br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=FlipZ3ro&label=Profile+Visits&color=00F584&style=for-the-badge)
 
