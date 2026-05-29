@@ -38,9 +38,6 @@
 
 ![Status](https://img.shields.io/badge/🟢_Status-Online-00F584?style=for-the-badge&labelColor=0d1117)
 ![WIB](https://img.shields.io/badge/🕐_WIB-UTC%2B7-00F584?style=for-the-badge&labelColor=0d1117)
-![VPS](https://img.shields.io/badge/🖥️_VPS-Debian_6.x-00F584?style=for-the-badge&labelColor=0d1117)
-
-</div>
 
 <br>
 
