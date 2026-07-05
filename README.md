@@ -16,7 +16,6 @@
 <!-- Live counts from the GitHub API — auto-update, no manual editing. -->
 ![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FFlipZ3ro&query=%24.public_repos&style=for-the-badge&label=%F0%9F%93%A6%20Repos&color=00F584&labelColor=0d1117)
 ![Followers](https://img.shields.io/github/followers/FlipZ3ro?style=for-the-badge&label=%F0%9F%91%A5%20Followers&color=00F584&labelColor=0d1117&logo=github&logoColor=white)
-![Profile Views](https://komarev.com/ghpvc/?username=FlipZ3ro&label=%F0%9F%91%80%20Visits&color=00F584&style=for-the-badge)
 
 <br>
 
