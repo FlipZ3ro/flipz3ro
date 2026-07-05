@@ -20,11 +20,6 @@
 ![Followers](https://img.shields.io/github/followers/FlipZ3ro?style=for-the-badge&label=%F0%9F%91%A5%20Followers&color=00F584&labelColor=0d1117&logo=github&logoColor=white)
 
 <br>
-
-<!-- Total stars, commits, PRs and contributions render live from github-readme-stats. -->
-<img src="https://github-readme-stats.vercel.app/api?username=FlipZ3ro&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=chartreuse-dark&bg_color=0d1117&title_color=00F584&icon_color=00F584&text_color=c9d1d9" alt="GitHub Stats" />
-
-<br>
 <br>
 
 <picture>
