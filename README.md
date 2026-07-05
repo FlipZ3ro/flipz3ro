@@ -20,10 +20,12 @@
 <br>
 
 <!-- Self-hosted github-readme-stats (grs-arapzz.vercel.app) — no shared rate limits. -->
-<img height="170" src="https://grs-arapzz.vercel.app/api?username=FlipZ3ro&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&hide_border=true&theme=chartreuse-dark&bg_color=0d1117&icon_color=3fb950&text_color=c9d1d9&ring_color=3fb950" alt="GitHub Stats" />
-&nbsp;
+<img src="https://grs-arapzz.vercel.app/api?username=FlipZ3ro&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&hide_border=true&card_width=470&bg_color=0d1117&icon_color=3fb950&text_color=c9d1d9&ring_color=3fb950" alt="GitHub Stats" />
+
+<br>
+
 <!-- Language breakdown auto-detected across all repos, recolored to the green theme (mono_color). -->
-<img height="170" src="https://grs-arapzz.vercel.app/api/top-langs?username=FlipZ3ro&layout=compact&langs_count=6&hide_title=true&hide_border=true&bg_color=0d1117&text_color=c9d1d9&mono_color=true" alt="Top Languages" />
+<img src="https://grs-arapzz.vercel.app/api/top-langs?username=FlipZ3ro&layout=compact&langs_count=6&hide_title=true&hide_border=true&card_width=470&bg_color=0d1117&text_color=c9d1d9&mono_color=true" alt="Top Languages" />
 
 <br>
 
