@@ -13,8 +13,8 @@
 
 ##
 
-<!-- Live counts from the GitHub API — auto-update, no manual editing. -->
-![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FFlipZ3ro&query=%24.public_repos&style=for-the-badge&label=%F0%9F%93%A6%20Repos&color=3fb950&labelColor=0d1117)
+<!-- Live counts — Repos via own authenticated endpoint (no anon rate limit), Followers native. -->
+![Repos](https://img.shields.io/endpoint?url=https%3A%2F%2Fgrs-arapzz.vercel.app%2Fapi%2Frepos&style=for-the-badge&labelColor=0d1117)
 ![Followers](https://img.shields.io/github/followers/FlipZ3ro?style=for-the-badge&label=%F0%9F%91%A5%20Followers&color=3fb950&labelColor=0d1117&logo=github&logoColor=white)
 
 <br>
