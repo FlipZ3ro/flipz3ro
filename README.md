@@ -22,7 +22,8 @@
 <!-- Self-hosted github-readme-stats (grs-arapzz.vercel.app) — no shared rate limits. -->
 <img height="170" src="https://grs-arapzz.vercel.app/api?username=FlipZ3ro&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&hide_border=true&theme=chartreuse-dark&bg_color=0d1117&icon_color=3fb950&text_color=c9d1d9&ring_color=3fb950" alt="GitHub Stats" />
 &nbsp;
-<img height="170" src="https://streak-stats.demolab.com?user=FlipZ3ro&theme=chartreuse-dark&background=0d1117&hide_border=true&ring=3fb950&fire=3fb950&currStreakLabel=3fb950&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak" />
+<!-- Language breakdown auto-detected across all repos (bytes-weighted %). -->
+<img height="170" src="https://grs-arapzz.vercel.app/api/top-langs?username=FlipZ3ro&layout=compact&langs_count=6&hide_title=true&hide_border=true&theme=chartreuse-dark&bg_color=0d1117&text_color=c9d1d9" alt="Top Languages" />
 
 <br>
 <br>
