@@ -18,7 +18,7 @@
 - Building **flash-loan, arbitrage, and liquidity tooling** across Solana and EVM
 - Shipping reliable on-chain automation with **Rust and TypeScript**
 - Exploring **AI agents** for research, trading, and protocol monitoring
-- Based in Indonesia and open to ambitious Web3 collaborations
+- Independent builder and researcher based in Indonesia
 
 ---
 
@@ -56,5 +56,5 @@
 🔭 Building     → Multichain DeFi automation and execution tooling
 🛡️ Researching  → Smart-contract security, MEV, and protocol edge cases
 🤖 Exploring    → Autonomous AI agents for on-chain workflows
-🤝 Open to      → Security research and open-source collaboration
+🧭 Working style → Independent research and development
 ```
